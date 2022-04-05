@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_item"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:color="#FFFFFF"
+        android:tint="#FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/setting_second"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:color="#FFFFFF"
+        android:tint="#FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:title="Collections"
+        />
+    <item
+        android:id="@+id/setting_three"
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:color="#FFFFFF"
+        android:tint="#FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:title="Messengers"
+        />
+    <item
+        android:id="@+id/setting_four"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:color="#FFFFFF"
+        android:tint="#FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:title="Setting"
+        />
+</menu>
